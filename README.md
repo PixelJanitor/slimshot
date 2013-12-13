@@ -7,7 +7,7 @@ Middleman SlimShot Template
 - [CoffeeScript](http://coffeescript.org) *[for js]*
 
 ###### Tools
-- [Boubron](http://bourbon.io) *[sass helpers/mixins]*
+- [Bourbon](http://bourbon.io) *[sass helpers/mixins]*
 
 ## Getting Started
 
