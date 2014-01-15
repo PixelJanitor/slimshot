@@ -28,7 +28,7 @@ Middleman SlimShot Template
 
   ```
   $ cd ~/path/to/where/you/want/to/create/your/project
-  $ middleman init PROJECT_NAME -- template=slimshot
+  $ middleman init PROJECT_NAME --template=slimshot
   ```
   
 ## Deploying to Heroku
